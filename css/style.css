@@ -1,0 +1,199 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden
+}
+
+.nav-center {
+    margin: auto;
+}
+
+nav {
+    background-color: transparent !important;
+}
+
+.section_one {
+    height: 101%;
+    background-image: url('https://www.tesla.com/ns_videos/hp_2019/main-hero-desktop.jpg');
+    margin-top: -60px;
+    background-size: 2600px;
+    background-position-x: -600px;
+    background-position-y: -2550px;
+}
+
+.order {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 50px !important;
+}
+
+a h1 {
+    margin-top: 30px;
+    position: relative;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: gray !important
+}
+
+li a:hover {
+    color: gray !important
+}
+
+.prev, .next {
+    margin-top: 100px;
+    height: 300%;
+    width: 100%;
+    background-color: transparent !important;
+    border: 0;
+}
+
+.prev:focus {
+    outline: none !important;
+    border: none !important;
+}
+
+.next:focus {
+    outline: none !important;
+    border: none !important;
+}
+
+.navbar {
+    z-index: 12312231313 !important;
+}
+
+.navbar-nav {
+    z-index: 12312231313 !important;
+}
+
+.full {
+    width: 100%;
+    height: 100%;
+}
+
+.top {
+    z-index: 21312323 !important;
+    position: relative;
+}
+
+.visit {
+    position: relative;
+    top: 80px;
+    text-decoration: underline;
+    color: aliceblue
+}
+
+.visit:hover {
+    text-decoration: underline !important;
+    color: aliceblue !important
+}
+
+.back {
+    background-position-x: -1200px !important;
+}
+
+.left {
+    background-position-x: 0px;
+}
+
+.yet {
+    background-position-x: -600px;
+}
+
+.name:after {
+    content: "MODEL 3";
+    color: aliceblue !important
+}
+
+.names:after {
+    content: "MODEL S";
+    color: aliceblue !important
+}
+
+.namex:after {
+    content: "MODEL X";
+    color: aliceblue !important
+}
+
+.section_two {
+    height: 100%;
+    width: 100%;
+}
+
+.tes-video {
+    width: 100% !important;
+    position: relative;
+}
+
+.ust {
+    z-index: 1232131;
+    position: relative;
+    top: -100%
+}
+
+.head-p {
+    font-size: 35px !important;
+    text-align: center !important;
+    color: aliceblue !important;
+}
+
+.order-2 {
+    margin-top: 20px;
+    width: 250px;
+    position: relative;
+    height: 50px;
+    font-weight: bold !important;
+    font-size: 25px;
+    border-radius: 50px !important;
+    margin-right: auto !important;
+    border: 5px solid white !important;
+}
+
+.mr {
+    left: 100px;
+}
+
+.nav-link {
+    color: aliceblue !important
+}
+
+.nav-link:hover {
+    color: rgb(167, 175, 182) !important
+}
+
+.section_three {
+
+    background-image: url('http://www.hdcarwallpapers.com/walls/model_x_tesla_motors-wide.jpg');
+    height: 120%;
+   width: 100%;
+    background-repeat: no-repeat;
+    position: relative !important;
+    background-size: 1400px;
+    background-position: center;
+  
+    
+}
+.head-p {
+    margin-top: 10px;
+    text-align: center;
+}
+.ordery {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 100px;
+    width: 200px;
+    border-radius: 50px !important;
+}
+.ust-order {
+    margin-top: -70px !important;
+}
